@@ -1,0 +1,37 @@
+/* Apply a black background to the entire page */
+body {
+    background-color: black;
+    color: grey; /* This will set the default text color to grey */
+    text-align: center; /* Centers text for all elements in body */
+}
+
+/* Header Text Styling */
+header h1 {
+    font-family: Verdana, sans-serif;
+    font-weight: normal; /* Normal font weight is equivalent to 400 */
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+/* Other h1 Elements Styling */
+h1 {
+    font-family: Verdana, sans-serif;
+    font-weight: 300; /* Lighter font weight */
+    font-size: 42px;
+    color: white;
+}
+
+/* a Tags Styling */
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/* Make paragraph text grey */
+p {
+    color: grey;
+    font-size: 21px;
+}
+
+
